@@ -34,7 +34,7 @@ document.addEventListener('DOMContentLoaded', () => {
         const formData = new FormData(form);
         
         // IMPORTANT: Replace this placeholder with your live Google Apps Script Web App URL later
-        const scriptURL = 'YOUR_GOOGLE_SCRIPT_URL_HERE'; 
+        const scriptURL = 'https://script.google.com/macros/s/AKfycbzUIiV4Rtt9P1FP3MkKlkRJ3Ip2gIugwSSF6FnSYGbkfarwaUvjs6veRct0ATi7kNBzHg/exec'; 
 
         // Simulated submission for local testing (runs if you haven't added your URL yet)
         if (scriptURL === 'YOUR_GOOGLE_SCRIPT_URL_HERE') {
