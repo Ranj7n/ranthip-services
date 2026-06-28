@@ -34,12 +34,11 @@ body {
     animation: fadeIn 1s ease-in-out;
 }
 
-.logo {
-    font-size: 2rem;
-    font-weight: bold;
-    color: var(--orange);
+.brand-logo {
+    max-width: 280px; /* Adjust this number to make the logo bigger or smaller */
+    height: auto;
     margin-bottom: 20px;
-    letter-spacing: 2px;
+    animation: fadeIn 1s ease-in-out;
 }
 
 .hero h1 {
